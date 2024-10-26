@@ -1,6 +1,5 @@
 <?php
 
-// Starting over
+// Starting again and fresh
 //
-// Test 26.10.2024, 13:28: Testing Push via GitHub Desktop
-// Test 26.10.2024, 14:15: Was ist jetzt Trumpf?
+// 26.10.2024, 14:37 – Test update from BBEdit
