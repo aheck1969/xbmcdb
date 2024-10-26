@@ -1,5 +1,17 @@
 <?php
-
-// Starting again and fresh
 //
-// 26.10.2024, 14:37 – Test update from BBEdit
+// +----------------------------------------------------------------------+
+// | XBMC_DB                                                              |
+// +----------------------------------------------------------------------+
+// | Copyright (c) 2003-2024 der.heckser                                  |
+// +----------------------------------------------------------------------+
+// | In the controller the system constants are set, all necessary files  |
+// | are included and the requested page is called.                       |
+// +----------------------------------------------------------------------+
+// | Authors: Andreas Heck <aheck@derheckser.de>                          |
+// +----------------------------------------------------------------------+
+//
+// $Id: index.php, v5.0.3, 2024-10-26 15:02:40 cellog Exp
+//
+
+phpinfo();
